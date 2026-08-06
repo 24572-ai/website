@@ -1,0 +1,21 @@
+.hero-image{
+    background-image:url("./images/IMG_1617.JPG") ;
+    height: 350px;
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;;
+}
+
+
+
+
+.hero-text {
+    color: whitesmoke;
+    position: absolute;
+    top: 180px;
+    text-align: center;
+    width: 100%;
+    font-size: 4rem;
+
+
+}
