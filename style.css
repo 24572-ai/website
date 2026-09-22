@@ -102,9 +102,9 @@
     margin-bottom: 20px;
 }
 
-.four-column-editing{
+.three-column-editing{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
     margin: auto;
     margin-top: 40px;
